@@ -1,4 +1,4 @@
-name = 'Nitish Rajpoot'
+# name = 'Nitish Rajpoot'
 # print(name)
 #No Variable Declaration 
 
@@ -7,11 +7,12 @@ name = 'Nitish Rajpoot'
 
 #Identifires and Key-words
 
+# Renamed Untitled2 Into PythonBasics and updated many code . 
 
 
 
 
 
 
-
+ 
 
