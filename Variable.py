@@ -9,7 +9,7 @@
 
 # Renamed Untitled2 Into PythonBasics and updated many code . 
 
-
+# Star Patern and Outer and Inner surface of stars printing in pY . and got some  / Assignments /
 
 
 
