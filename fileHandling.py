@@ -68,8 +68,15 @@
 #     writer=csv.reader(file)
 #     for row in writer:
 #         print(row)    # Reading 
-
-
+#RB-Read Binary Files  // Means / Image and Pdf
+#WB-
+#Read The binary file
+# with open("jigoogleMarket.png",'rb')as file:
+#     content = file.read()
+# #created The new Binary File or Coppyed from existing one
+# with open("copy.png",'wb')as file:
+#     file.write(content)
+#New File created 
 
 
 
